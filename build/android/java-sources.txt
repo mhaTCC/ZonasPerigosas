@@ -1,0 +1,8 @@
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/com/teste/ApplicationStylesheet.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/com/teste/AssetCryptImpl.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/com/teste/R.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/com/teste/TesteActivity.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/com/teste/TesteAppInfo.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/com/teste/TesteApplication.java"
+"C:/Users/miche_000/Documents/Titanium_Studio_Workspace/Zonas Perigosas/build/android/gen/ti/modules/titanium/ui/R.java"
